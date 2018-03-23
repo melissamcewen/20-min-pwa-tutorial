@@ -7,12 +7,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: "GatsbyJS",
-        short_name: "GatsbyJS",
+        name: "PWA20",
+        short_name: "PWA20",
         start_url: "/",
-        background_color: "#f7f0eb",
-        theme_color: "#a2466c",
-        display: "minimal-ui",
+        "theme_color": "#6b37bf",
+        "background_color": "#6b37bf",
+        "display": "standalone",
         icons: [
           {
             // Everything in /static will be copied to an equivalent
@@ -24,8 +24,8 @@ module.exports = {
             type: `image/png`,
           },
           {
-            src: `/favicons/android-chrome-512x512.png`,
-            sizes: `512x512`,
+            src: `/favicons/android-chrome-256x256.png`,
+            sizes: `256x256`,
             type: `image/png`,
           },
         ],
