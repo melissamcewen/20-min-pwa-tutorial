@@ -29,6 +29,11 @@ module.exports = {
             sizes: `256x256`,
             type: `image/png`,
           },
+          {
+            src: `/20-min-pwa-tutorial/favicons/android-chrome-512x512.png`,
+            sizes: `512x512`,
+            type: `image/png`,
+          }
         ],
       },
     },
