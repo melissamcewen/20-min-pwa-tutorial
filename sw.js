@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/20-min-pwa-tutorial/app-b2a3a81ae000cf630b0c.js","48528d034ac1044708df7373f0788a8b"],["/20-min-pwa-tutorial/app-f16795f82dcc09c73942.js","02db744749b75a825faac1bd742c8bdb"],["/20-min-pwa-tutorial/app-fe489d5dffd711205fde.js","af02cf5b82f93de8ebb5a2d715ea1740"],["/20-min-pwa-tutorial/commons-37e7ec241aad23eaba66.js","b9bf5d9c93b581eb745de36a7c884d9c"],["/20-min-pwa-tutorial/index.html","5299775970557b20cc208c955fb4c8e5"],["/20-min-pwa-tutorial/manifest.json","9e955c38c5cbaf6cc43885b5d9dcff26"],["/20-min-pwa-tutorial/offline-plugin-app-shell-fallback/index.html","4227ea088b0793726acf1f2ad3917122"]];
+var precacheConfig = [["/20-min-pwa-tutorial/app-b2a3a81ae000cf630b0c.js","48528d034ac1044708df7373f0788a8b"],["/20-min-pwa-tutorial/app-f16795f82dcc09c73942.js","02db744749b75a825faac1bd742c8bdb"],["/20-min-pwa-tutorial/app-fe489d5dffd711205fde.js","af02cf5b82f93de8ebb5a2d715ea1740"],["/20-min-pwa-tutorial/commons-37e7ec241aad23eaba66.js","b9bf5d9c93b581eb745de36a7c884d9c"],["/20-min-pwa-tutorial/index.html","5299775970557b20cc208c955fb4c8e5"],["/20-min-pwa-tutorial/manifest.json","c13d6ee4e6ba8ee03cff2ad62ecf21b4"],["/20-min-pwa-tutorial/offline-plugin-app-shell-fallback/index.html","4227ea088b0793726acf1f2ad3917122"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
